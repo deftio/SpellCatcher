@@ -2,7 +2,7 @@
 
 A magical web application that uses computer vision and machine learning to track wand movements and recognize spell patterns in real-time.
 
-**✨ Live Demo**: Available on [GitHub Pages](https://deftio.github.io/SpellCaster/)
+**✨ [Live Demo](https://deftio.github.io/SpellCaster/)**
 
 Inspired by a visit to Hogsmeade :) 
 
